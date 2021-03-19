@@ -1,6 +1,6 @@
 Flask==0.10.1
 Flask-Shelve==0.1.1
-Jinja2==2.7.3
+Jinja2==2.11.3
 Magic-file-extensions==0.2
 Markdown==2.5.1
 MarkupSafe==0.23
