@@ -30,7 +30,7 @@ gmpy==1.15
 html5lib==0.999
 httplib2==0.9
 idna==0.9
-ipython==2.3.0
+ipython==7.16.3
 itsdangerous==0.24
 joblib==0.8.2
 lockfile==0.8
