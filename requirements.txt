@@ -27,7 +27,7 @@ defer==1.0.6
 dirspec==13.10
 duplicity==0.6.23
 gmpy==1.15
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.9
 idna==0.9
 ipython==2.3.0
