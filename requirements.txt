@@ -32,7 +32,7 @@ httplib2==0.9
 idna==0.9
 ipython==2.3.0
 itsdangerous==0.24
-joblib==0.8.2
+joblib==1.2.0
 lockfile==0.8
 lxml==3.3.6
 matplotlib==1.3.1
